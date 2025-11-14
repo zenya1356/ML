@@ -1,0 +1,10 @@
+# Папка с данными
+data/
+datasets/
+
+# Файлы-датасеты
+*.csv
+*.zip
+*.parquet
+*.pkl
+*.h5
